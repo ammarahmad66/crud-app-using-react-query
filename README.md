@@ -6,3 +6,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+# Instructions to run the project
+- Open the project and run command `npm install` to install the dependencies.
+- After that, run the command `npx json-server db.json` to run the mock server.
+- Now, open another terminal and run the command `npm run dev` to start the client application.
