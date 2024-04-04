@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "General Elections 2024!",
+      "body": "The worst election in the history of the contry"
+    },
+    {
+      "id": "2",
+      "title": "Snap Legislative Elections",
+      "body": "Democractic Alliance won the closest election."
+    },
+    {
+      "id": "3",
+      "title": "Earthquake in Phillipines",
+      "body": "5.1 magnitude of earthquake was recorded in Philipines yesterday."
+    },
+    {
+      "id": 4,
+      "title": "new post",
+      "body": "new post"
+    },
+    {
+      "id": "e6164807-a81b-44c4-8bfd-522428b528b3",
+      "title": "new post",
+      "body": "new post"
+    }
+  ]
+}
